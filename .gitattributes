@@ -1,0 +1,3 @@
+data/appeals.csv filter=lfs diff=lfs merge=lfs -text
+data/navigation.csv filter=lfs diff=lfs merge=lfs -text
+data/users.csv filter=lfs diff=lfs merge=lfs -text
